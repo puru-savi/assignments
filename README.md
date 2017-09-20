@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Berlin Clock
 
 The Berlin Uhr (Clock) is a rather strange way to show the time. On the top of the clock there is a yellow lamp that
@@ -25,3 +26,9 @@ Wrapper so `gradlew` from the command line should download everything you need. 
 The use of JBehave in this instance is to provide you with our definition of done for the task.
 
 Please ensure that you are familiar with our values in the instructions project.  They are important to us.
+=======
+# assignments
+All working assignments stored here.
+Some changes has been done.
+Now this file is ready to commit.
+>>>>>>> branch 'master' of https://github.com/puru-savi/assignments
