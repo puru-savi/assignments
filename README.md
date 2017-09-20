@@ -27,8 +27,5 @@ The use of JBehave in this instance is to provide you with our definition of don
 
 Please ensure that you are familiar with our values in the instructions project.  They are important to us.
 =======
-# assignments
-All working assignments stored here.
-Some changes has been done.
-Now this file is ready to commit.
+
 >>>>>>> branch 'master' of https://github.com/puru-savi/assignments
